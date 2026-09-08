@@ -1,6 +1,6 @@
 cask "sway" do
-  version "26.907.1-alpha"
-  sha256 "015fdeec70e2b731c255370c0e2286af713ba34759a1955191df259d4841f62a"
+  version "26.908.0-alpha"
+  sha256 "78333b17f4b586ead4493d9c5435cf97d2b4c5e5d747c07a6ba307e22bf5f3b8"
 
   url "https://github.com/skarif2/sway-releases/releases/download/v#{version}/Sway_#{version}_universal.dmg"
   name "Sway"
